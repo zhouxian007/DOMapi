@@ -1,0 +1,14 @@
+13
+26D:\demo\demo11\src\main.js132829216596774462 0
+26D:\demo\demo11\·â×°DOM.txt132826653650620000 0
+22D:\demo\demo11\.vscode132826683748614416 1
+19D:\demo\demo11\dist132828408515277971 1
+18D:\demo\demo11\src132826653689968097 1
+41D:\demo\demo11\dist\index.97f57e98.js.map132828408256009125 0
+37D:\demo\demo11\dist\index.97f57e98.js132828408255969231 0
+25D:\demo\demo11\src\dom.js132829215901360093 0
+30D:\demo\demo11\dist\index.html132828408255969231 0
+29D:\demo\demo11\src\index.html132828401622812034 0
+37D:\demo\demo11\dist\index.fef1cfaf.js132828408515258023 0
+41D:\demo\demo11\dist\index.fef1cfaf.js.map132828408515267996 0
+36D:\demo\demo11\.vscode\settings.json132826683748793324 0
